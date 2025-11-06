@@ -43,7 +43,7 @@
 ### 🏆 Achievements:
 - 🥈 *2nd Place* — Debugging Competition (C & C++)
 - 🥈 *Runner-Up* — Project Presentation Competition
-- 🎓 MCA (AI/ML), LPU — *CGPA: 8.0*
+- 🥈 *2nd place* - Hackton Nexus 1.0
 
 ---
 
