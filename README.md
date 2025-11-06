@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prem Kalyan</h1>
-<h3 align="center">An aspiring AI/ML Engineer and Problem Solver from India 🇮🇳</h3>
+<h1 align="center">Hi 👋 I'm Prem Kalyan</h1>
+<h3 align="center">An aspiring AI/ML Engineer and Software Developer Problem Solver from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=premkalyan-dev&theme=onestar&no-frame=true&margin-w=10" />
-</p>
 
-- 🔭 I’m currently working on **Face Recognition Attendance System + Google Sheets Integration**
-- 🌱 I’m currently learning **Data Structures & Algorithms in C++**
-- 💡 Interested in **Machine Learning, AI Automation & Computer Vision**
-- 📫 Reach me at **ch.premkalyan@gmail.com**
-- ⚡ Fun fact: *Relatives think I fix mobile phones… but I train machines instead 😄*
 
 ---
 
