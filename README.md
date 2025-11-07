@@ -38,9 +38,19 @@
 ---
 
 ## 🏆 Achievements
-- 🥈 **2nd Place** — Debugging Competition (C & C++)
-- 🥈 **Runner-Up** — Innovative Project Presentation
-- 🥈 **2nd Place** — Hackathon Nexus 1.0
+
+| 🏅 Achievement | 📝 Details |
+|---------------|----------|
+| 🥈 **2nd Place** | Debugging Competition (C & C++) |
+| 🥈 **Runner-Up** | Innovative Project Presentation |
+| 🥈 **2nd Place** | Hackathon Nexus 1.0 |
+
+---
+
+## 🏆 GitHub Trophy Board
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=premkalyan-dev&theme=tokyonight&margin-w=10" />
+</p>
 
 ---
 
