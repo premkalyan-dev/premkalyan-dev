@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/2z8YpQX.gif" width="600" />
-</p>
 
 <h1 align="center">Hi 👋, I'm <strong>Prem Kalyan</strong></h1>
 <h3 align="center">Aspiring AI/ML Engineer • Software Developer • Problem Solver 🇮🇳</h3>
