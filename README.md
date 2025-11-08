@@ -1,8 +1,6 @@
 <!-- Banner -->
 
-<h1 align="center">Hi 👋, I'm <strong>Prem Kalyan</strong></h1>
-<h3 align="center">Aspiring AI/ML Engineer • Software Developer • Problem Solver 🇮🇳</h3>
-
+<h1 align="center">Hi,I'm <strong>Prem Kalyan</strong></h1>
 ---
 
 ## 🌐 Connect with Me
@@ -64,11 +62,3 @@
 
 ---
 
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premkalyan-dev&theme=tokyo-night" />
-</p>
-
----
-
-<h3 align="center">✨ Thank You for Visiting! Keep Learning • Keep Building • Keep Growing ✨</h3>
