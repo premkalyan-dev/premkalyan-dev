@@ -1,19 +1,3 @@
-<!-- Banner -->
-
-<h1 align="center">Hi,I'm <strong>Prem Kalyan</strong></h1>
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/chpremkalyan">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://leetcode.com/premkalyan">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-  </a>
-</p>
-
----
 
 ## 🧠 Skills & Tools
 <p align="center">
